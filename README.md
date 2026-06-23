@@ -24,8 +24,8 @@ Ocean Tap adalah game arkade sederhana berbasis Python yang terinspirasi dari Fl
 
 ```bash
 # 1. Clone repositori dan masuk ke foldernya
-git clone https://github.com/USERNAME_KAMU/NAMA_REPOSITORI_KAMU.git
-cd NAMA_REPOSITORI_KAMU
+git clone https://github.com/ahmad-fathi18/Ocean-Tap-Game
+cd Ocean-Tap-Game
 
 
 # 2. Install semua library yang dibutuhkan
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 python Ocean_tap.py
 ```
 
-## 📂 Susunan File & Aset Game (urutan bebas)
+##  Susunan File & Aset Game (urutan bebas)
 
 ```text
  ┣ 📂 asset/
@@ -51,5 +51,5 @@ python Ocean_tap.py
  ┗ 📜 README.md
 ```
 
- ## 👤 Kreator
+ ##  Kreator
 * **Ahmad Fathi** - [GitHub Profile](https://github.com/ahmad-fathi18)
