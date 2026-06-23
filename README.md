@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 # 3. Jalankan gamenya
 python Ocean_tap.py
-'''
+```
 
 ## 📂 Susunan File & Aset Game (urutan bebas)
 
@@ -49,7 +49,7 @@ python Ocean_tap.py
  ┣ 📜 highscore.txt
  ┣ 📜 requirements.txt
  ┗ 📜 README.md
-'''
+```
 
  ## 👤 Kreator
 * **Ahmad Fathi** - [GitHub Profile](https://github.com/ahmad-fathi18)
