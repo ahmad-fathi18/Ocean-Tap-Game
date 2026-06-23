@@ -49,6 +49,7 @@ python Ocean_tap.py
  ┣ 📜 highscore.txt
  ┣ 📜 requirements.txt
  ┗ 📜 README.md
+'''
 
  ## 👤 Kreator
 * **Ahmad Fathi** - [GitHub Profile](https://github.com/ahmad-fathi18)
